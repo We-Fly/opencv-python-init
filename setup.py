@@ -35,8 +35,8 @@ def main():
     # 如果后期有需要添加的包就写这个列表里
     pkgs = f"""
     numpy
-    opencv-python==4.5.5.64
-    opencv-contrib-python==4.5.5.64
+    opencv-python
+    opencv-contrib-python
     imutils
     pillow
     pyserial
